@@ -1,11 +1,10 @@
 # Language Detection Model
+This project demonstrates a Language Detection Model built using Python in Google Colab. The model is designed to automatically identify the language of a given text input using machine learning techniques.
 
 # Dataset
 The dataset used is sourced from: https://www.kaggle.com/datasets/basilb2s/language-detection
 * The dataset consists of over 10,000 text samples across multiple languages including English, French, Spanish, Arabic, Hindi, and more. The data is first preprocessed through cleaning steps such as lowercasing, removing punctuation, numbers, and extra spaces to ensure consistency and improve model performance.
 
-# Overview
-This project demonstrates a Language Detection Model built using Python in Google Colab. The model is designed to automatically identify the language of a given text input using machine learning techniques.
 # Features
 * Data cleaning and preprocessing pipeline
 * TF-IDF vectorization (character n-grams)
